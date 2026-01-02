@@ -9,7 +9,7 @@
           </p>
 
           <p style={{ marginTop: 16, fontWeight: 700 }}>
-            📞 +52 614 XXX XXXX
+            📞 +52 614 665 8199
           </p>
 
           <div className="cta-row">
